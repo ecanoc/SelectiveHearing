@@ -1,2 +1,2 @@
-# SelectiveHearing
-Additional resources on 
+# Selective Hearing
+
