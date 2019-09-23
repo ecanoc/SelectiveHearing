@@ -66,7 +66,14 @@ Below you can find more detailed information about the references and resources.
 * [[37]](http://ismir2018.ircam.fr/doc/pdfs/275_Paper.pdf) Instrument Activity Detection in Polyphonic Music using Deep Neural Networks
 * [[38]](http://www.ofai.at/~jan.schlueter/pubs/2018_ismir.pdf) Zero Mean Convolutions for Level-Invariant Singing Voice Detection [[code]](https://github.com/f0k/ismir2018)
 
-# 2. Sound Source Localization
+# 2. Sound Source Localization [[3]](https://hal.archives-ouvertes.fr/hal-01058575/document)
+* [[39]](https://ieeexplore.ieee.org/document/7952211) DOA estimation with histogram analysis of spatially constrained active intensity vectors [[preprint]](https://pdfs.semanticscholar.org/db39/56916d941cdad01ac4c59cb6749e1e34e010.pdf)
+* [[40]]
+* [[41]]
+* [[42]]
+* [[43]]
+* [[44]]
+* [[45]]
 # 3. Sound Source Separation
 # 4. Active Noise Control (ANC)
 # 5. Sound Source Enhancement
