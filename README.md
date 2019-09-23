@@ -66,7 +66,7 @@ Below you can find more detailed information about the references and resources.
 * [[37]](http://ismir2018.ircam.fr/doc/pdfs/275_Paper.pdf) Instrument Activity Detection in Polyphonic Music using Deep Neural Networks
 * [[38]](http://www.ofai.at/~jan.schlueter/pubs/2018_ismir.pdf) Zero Mean Convolutions for Level-Invariant Singing Voice Detection [[code]](https://github.com/f0k/ismir2018)
 
-# 2. Sound Source Localization [[3]](https://hal.archives-ouvertes.fr/hal-01058575/document)
+# 2. [Sound Source Localization](Localization.md) [[3]](https://hal.archives-ouvertes.fr/hal-01058575/document)
 * [[39]](https://ieeexplore.ieee.org/document/7952211) DOA estimation with histogram analysis of spatially constrained active intensity vectors [[preprint]](https://pdfs.semanticscholar.org/db39/56916d941cdad01ac4c59cb6749e1e34e010.pdf)
 * [[40]](https://ieeexplore.ieee.org/abstract/document/8651493) Multi-Speaker DOA Estimation Using Deep Convolutional Networks Trained With Noise Signals [[preprint]](https://arxiv.org/abs/1807.11722)
 * [[41]](https://ieeexplore.ieee.org/document/8010441) Multiple-Speaker Localization Based on Direct-Path Features and Likelihood Maximization With Spatial Sparsity Regularization [[preprint]](https://arxiv.org/abs/1611.01172)
