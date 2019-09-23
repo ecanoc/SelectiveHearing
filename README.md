@@ -41,7 +41,7 @@ Below you can find more detailed information about the references and resources.
 * [[26]](http://dcase.community/documents/challenge2018/technical_reports/DCASE2018_Dorfer_999.pdf) Training General-Purpose Audio Tagging Networks with Noisy Labels and Iterative Self-Verification [[code]](https://github.com/CPJKU/dcase_task2)
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Joint optimization`
-* [[27]]
+* [[27]](https://ieeexplore.ieee.org/abstract/document/8567942) Sound Event Localization and Detection of Overlapping Sources Using Convolutional Recurrent Neural Networks [[preprint]](https://arxiv.org/abs/1807.00129)
 
 ## Speech
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Voice Activity Detection`
