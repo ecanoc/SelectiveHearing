@@ -80,7 +80,7 @@ Below you can find more detailed information about the references and resources.
 # 3. Sound Source Separation [[9]](https://www.wiley.com/en-sg/Audio+Source+Separation+and+Speech+Enhancement-p-9781119279891)
 ## Speech
 * [[46]](https://ieeexplore.ieee.org/abstract/document/8264702) Speaker-Independent Speech Separation With Deep Attractor Network [[preprint]](https://arxiv.org/abs/1707.03634)
-* [[47]](https://ieeexplore.ieee.org/document/8461639) ulti-Channel Deep Clustering: Discriminative Spectral and Spatial Embeddings for Speaker-Independent Speech Separation [[preprint]](https://www.merl.com/publications/docs/TR2018-007.pdf) [[demo]](http://www.merl.com/demos/deep-clustering)
+* [[47]](https://ieeexplore.ieee.org/document/8461639) Multi-Channel Deep Clustering: Discriminative Spectral and Spatial Embeddings for Speaker-Independent Speech Separation [[preprint]](https://www.merl.com/publications/docs/TR2018-007.pdf) [[demo]](http://www.merl.com/demos/deep-clustering)
 * [[48]]
 * [[49]]
 * [[50]]
