@@ -20,7 +20,7 @@ You can download a .bib file with all the references in the paper [here](./MMSP1
 Below you can find more detailed information about the references and resources.
 
 
-# 1. Sound Source Detection and Classification
+# 1. [Sound Source Detection and Classification](DetectionandClassification.md)
 
 ## Sound Events [[18]](https://trepo.tuni.fi//handle/10024/116599)
 * [[18]](https://trepo.tuni.fi//handle/10024/116599) Detection and Classification of Acoustic Scenes and Events (DCASE) 
