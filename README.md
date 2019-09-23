@@ -77,7 +77,7 @@ Below you can find more detailed information about the references and resources.
 * [[44]](https://ieeexplore.ieee.org/document/6557035) Real-Time Multiple Sound Source Localization and Counting Using a Circular Microphone Array [[preprint]](https://hal.archives-ouvertes.fr/hal-01367320/document)
 * [[45]](https://ieeexplore.ieee.org/document/8683732) End-to-end Binaural Sound Localisation from the Raw Waveform [[preprint]](https://arxiv.org/abs/1904.01916)
 
-# 3. Sound Source Separation [[9]]
+# 3. Sound Source Separation [[9]](https://www.wiley.com/en-sg/Audio+Source+Separation+and+Speech+Enhancement-p-9781119279891)
 ## Speech
 * [[46]](https://ieeexplore.ieee.org/abstract/document/8264702) Speaker-Independent Speech Separation With Deep Attractor Network [[preprint]](https://arxiv.org/abs/1707.03634)
 * [[47]](https://ieeexplore.ieee.org/document/8461639) ulti-Channel Deep Clustering: Discriminative Spectral and Spatial Embeddings for Speaker-Independent Speech Separation [[preprint]](https://www.merl.com/publications/docs/TR2018-007.pdf) [[demo]](http://www.merl.com/demos/deep-clustering)
