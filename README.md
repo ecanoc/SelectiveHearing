@@ -76,9 +76,43 @@ Below you can find more detailed information about the references and resources.
 * [[43]](https://ieeexplore.ieee.org/document/7039285) Fast Sound Source Localization Using Two-Level Search Space Clustering [[code]](https://github.com/LeeTaewoo/fast_sound_source_localization_using_TLSSC)
 * [[44]](https://ieeexplore.ieee.org/document/6557035) Real-Time Multiple Sound Source Localization and Counting Using a Circular Microphone Array [[preprint]](https://hal.archives-ouvertes.fr/hal-01367320/document)
 * [[45]](https://ieeexplore.ieee.org/document/8683732) End-to-end Binaural Sound Localisation from the Raw Waveform [[preprint]](https://arxiv.org/abs/1904.01916)
-# 3. Sound Source Separation
-# 4. Active Noise Control (ANC)
+
+# 3. Sound Source Separation [[9]]
+## Speech
+* [[46]]
+* [[47]]
+* [[48]]
+* [[49]]
+* [[50]]
+* [[51]]
+
+## Music [[5]]
+
+* [[52]]
+* [[53]]
+* [[54]]
+* [[55]]
+* [[4]]
+
+# 4. Active Noise Control (ANC) [[11]]
+
+* [[56]]
+* [[57]]
+* [[58]]
+* [[14]]
+
 # 5. Sound Source Enhancement
+## Speech [[9]]
+* [[8]]
+* [[59]]
+* [[60]]
+* [[61]]
+* [[6]]
+
+## Music
+* [[10]]
+* [[63]]
+* [[64]]
 
 
 
