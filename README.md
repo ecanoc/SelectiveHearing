@@ -29,17 +29,27 @@ Below you can find more detailed information about the references and resources.
 [Website](http://dcase.community/challenge2018/task-large-scale-weakly-labeled-semi-supervised-sound-event-detection)
 * [[20]](http://dcase.community/documents/challenge2018/technical_reports/DCASE2018_Lu_19.pdf)  Mean Teacher Convolution System for DCASE 2018 Task 4 
 * [[21]]
+* [[22]]
+
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Robustness`
 * [[23]]
 * [[24]]
 * [[25]]
 * [[26]]
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Joint optimization`
 * [[27]]
 
 ## Speech
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Voice Activity Detection`
 * [[28]]
 * [[29]]
 * [[30]]
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Speaker Recognition`
 * [[31]]
+
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Robustness`
 * [[32]]
 * [[33]]
 * [[34]]
