@@ -4,7 +4,8 @@ This page provides a list of references described in the following paper:
 
 
 ```
-*Selective Hearing: A Machine Listening Perspective*
+Selective Hearing: A Machine Listening Perspective
+
 @inproceedings{CanoLukashevich_MMSP19,
 address = {Kuala Lumpur, Malaysia},
 author = {Cano, Estefan\'{i} and Lukashevich, Hanna},
