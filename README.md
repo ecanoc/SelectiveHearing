@@ -20,11 +20,11 @@ You can download a .bib file with all the references in the paper [here](./MMSP1
 Below you can find more detailed information about the references and resources.
 
 
-*Sound Source Detection and Classification*
-*Sound Source Localization*
-*Sound Source Separation*
-*Active Noise Control (ANC)*
-*Sound Source Enhancement*
+#Sound Source Detection and Classification
+#Sound Source Localization
+#Sound Source Separation
+#Active Noise Control (ANC)
+#Sound Source Enhancement
 
 
 
