@@ -1,4 +1,4 @@
-# Selective Hearing
+# 1. Selective Hearing
 
 This page provides a list of references described in the following paper:
 
@@ -60,10 +60,10 @@ Below you can find more detailed information about the references and resources.
 * [[37]]
 * [[38]]
 
-# Sound Source Localization
-# Sound Source Separation
-# Active Noise Control (ANC)
-# Sound Source Enhancement
+# 2. Sound Source Localization
+# 3. Sound Source Separation
+# 4. Active Noise Control (ANC)
+# 5. Sound Source Enhancement
 
 
 
