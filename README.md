@@ -11,3 +11,6 @@ booktitle = {Proceedings of the IEEE 21st International Worshop on Multimedia Si
 title = {{Selective Hearing: A Machine Listening Perspective}},
 year = {2019}
 }
+```
+
+You can download a .bib file with all the references in the paper here.
