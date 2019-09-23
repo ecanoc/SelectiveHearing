@@ -68,7 +68,7 @@ Below you can find more detailed information about the references and resources.
 
 # 2. Sound Source Localization [[3]](https://hal.archives-ouvertes.fr/hal-01058575/document)
 * [[39]](https://ieeexplore.ieee.org/document/7952211) DOA estimation with histogram analysis of spatially constrained active intensity vectors [[preprint]](https://pdfs.semanticscholar.org/db39/56916d941cdad01ac4c59cb6749e1e34e010.pdf)
-* [[40]]
+* [[40]](https://ieeexplore.ieee.org/abstract/document/8651493) Multi-Speaker {DOA} Estimation Using Deep Convolutional Networks Trained With Noise Signals [[preprint]](https://arxiv.org/abs/1807.11722)
 * [[41]]
 * [[42]]
 * [[43]]
