@@ -28,7 +28,8 @@ Below you can find more detailed information about the references and resources.
 * [[19]](http://dcase.community/documents/workshop2018/proceedings/DCASE2018Workshop_Serizel_22.pdf) Large-scale weakly labeled semi-supervised sound event detection in domestic environments 
 [Website](http://dcase.community/challenge2018/task-large-scale-weakly-labeled-semi-supervised-sound-event-detection)
 * [[20]](http://dcase.community/documents/challenge2018/technical_reports/DCASE2018_Lu_19.pdf)  Mean Teacher Convolution System for DCASE 2018 Task 4 
-* [[21]]
+* [[21]](https://ieeexplore.ieee.org/abstract/document/7472917) Recurrent neural networks for polyphonic sound event detection in real life recordings
+[Preprint](http://www.cs.tut.fi/sgn/arg/music/tuomasv/parascandolo-icassp2016.pdf)
 * [[22]]
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Robustness`
