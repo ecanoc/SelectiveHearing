@@ -58,8 +58,10 @@ Below you can find more detailed information about the references and resources.
 * [[34]](https://arxiv.org/pdf/1605.01635.pdf) The IBM Speaker Recognition System: Recent Advances and Error Analysis
 
 ## Music 
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Instrument Classification`
 * [[35]]
 * [[36]]
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Activity Detection`
 * [[37]]
 * [[38]]
 
