@@ -88,8 +88,8 @@ Below you can find more detailed information about the references and resources.
 
 ## Music [[5]]
 
-* [[52]]
-* [[53]]
+* [[52]](https://arxiv.org/abs/1804.08300) An Overview of Lead and Accompaniment Separation in Music
+* [[53]](https://link.springer.com/chapter/10.1007/978-3-319-93764-9_28) The 2018 Signal Separation Evaluation Campaign [[website]](https://sisec18.unmix.app/#/) [[preprint]](https://arxiv.org/abs/1804.06267)
 * [[54]]
 * [[55]]
 * [[4]]
