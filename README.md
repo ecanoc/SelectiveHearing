@@ -1,4 +1,4 @@
-# 1. Selective Hearing
+# Selective Hearing
 
 This page provides a list of references described in the following paper:
 
@@ -20,7 +20,7 @@ You can download a .bib file with all the references in the paper [here](./MMSP1
 Below you can find more detailed information about the references and resources.
 
 
-# Sound Source Detection and Classification
+# 1. Sound Source Detection and Classification
 
 ## Sound Events [[18]](https://trepo.tuni.fi//handle/10024/116599)
 * [[18]](https://trepo.tuni.fi//handle/10024/116599) Detection and Classification of Acoustic Scenes and Events (DCASE) 
@@ -63,8 +63,8 @@ Below you can find more detailed information about the references and resources.
 * [[36]](https://arxiv.org/abs/1605.06644) Deep convolutional networks on the pitch spiral for musical instrument recognition
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Activity Detection`
-* [[37]]
-* [[38]]
+* [[37]](http://ismir2018.ircam.fr/doc/pdfs/275_Paper.pdf) Instrument Activity Detection in Polyphonic Music using Deep Neural Networks
+* [[38]](http://www.ofai.at/~jan.schlueter/pubs/2018_ismir.pdf) Zero Mean Convolutions for Level-Invariant Singing Voice Detection [[code]](https://github.com/f0k/ismir2018)
 
 # 2. Sound Source Localization
 # 3. Sound Source Separation
