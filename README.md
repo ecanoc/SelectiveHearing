@@ -38,7 +38,7 @@ Below you can find more detailed information about the references and resources.
 [[preprint]](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/XuKWP_ICASSP_2018.pdf)
 * [[24]](https://ieeexplore.ieee.org/abstract/document/6685834) Classification in the Presence of Label Noise: A Survey
 * [[25]](https://ieeexplore.ieee.org/document/8683158) Learning Sound Event Classifiers from Web Audio with Noisy Labels [[preprint]](https://arxiv.org/abs/1901.01189)[[code]](https://github.com/edufonseca/icassp19)
-* [[26]]
+* [[26]](http://dcase.community/documents/challenge2018/technical_reports/DCASE2018_Dorfer_999.pdf) Training General-Purpose Audio Tagging Networks with Noisy Labels and Iterative Self-Verification [[code]](https://github.com/CPJKU/dcase_task2)
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Joint optimization`
 * [[27]]
