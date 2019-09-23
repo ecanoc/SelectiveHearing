@@ -15,4 +15,4 @@ year = {2019}
 }
 ```
 
-You can download a .bib file with all the references in the paper [here](MMSP19_SelectiveHearing.bib)
+You can download a .bib file with all the references in the paper [here](./MMSP19_SelectiveHearing.bib)
