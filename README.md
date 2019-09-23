@@ -86,13 +86,13 @@ Below you can find more detailed information about the references and resources.
 * [[50]](https://ieeexplore.ieee.org/abstract/document/8462116) TaSNet: Time-Domain Audio Separation Network for Real-Time, Single-Channel Speech Separation [[preprint]](https://arxiv.org/abs/1711.00541)
 * [[51]](https://ieeexplore.ieee.org/document/7602895) Convolutive blind source separation with low latency [[preprint]]
 
-## Music [[5]]
+## Music [[5]](https://ieeexplore.ieee.org/document/8588410)
 
-* [[52]](https://arxiv.org/abs/1804.08300) An Overview of Lead and Accompaniment Separation in Music
+* [[52]](https://ieeexplore.ieee.org/abstract/document/8336997) An Overview of Lead and Accompaniment Separation in Music [[preprint]](https://arxiv.org/abs/1804.08300)
 * [[53]](https://link.springer.com/chapter/10.1007/978-3-319-93764-9_28) The 2018 Signal Separation Evaluation Campaign [[website]](https://sisec18.unmix.app/#/) [[preprint]](https://arxiv.org/abs/1804.06267)
-* [[54]]
-* [[55]]
-* [[4]]
+* [[54]](https://ieeexplore.ieee.org/document/5784290) A Musically Motivated Mid-Level Representation for Pitch Estimation and Musical Audio Source Separation [[preprint]](https://www.researchgate.net/publication/220373063_A_Musically_Motivated_Mid-Level_Representation_for_Pitch_Estimation_and_Musical_Audio_Source_Separation_
+* [[55]](https://ieeexplore.ieee.org/document/7952158) Improving music source separation based on deep neural networks through data augmentation and network blending [[preprint]](https://pdfs.semanticscholar.org/76e4/fb97d6fa7c870f5f8ec6d78242d43650b282.pdf)
+* [[4]](https://ieeexplore.ieee.org/document/7473924) Projection-Based Demixing of Spatial Audio [[preprint]](https://hal.inria.fr/hal-01260588/document)
 
 # 4. Active Noise Control (ANC) [[11]]
 
