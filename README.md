@@ -50,7 +50,7 @@ Below you can find more detailed information about the references and resources.
 * [[30]](https://pdfs.semanticscholar.org/31c7/4962122ba5fe1c469101b5bc2ae6d88c9c18.pdf) Feature Learning with Raw-Waveform CLDNNs for Voice Activity Detectio
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Speaker Recognition`
-* [[31]](https://ieeexplore.ieee.org/abstract/document/7178885)Advances in deep neural network approaches to speaker recognition
+* [[31]](https://ieeexplore.ieee.org/abstract/document/7178885) Advances in deep neural network approaches to speaker recognition
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Robustness`
 * [[32]](https://ieeexplore.ieee.org/document/8461375) X-Vectors: Robust {DNN} Embeddings for Speaker Recognition [[preprint]](https://www.danielpovey.com/files/2018_icassp_xvectors.pdf) [[code]](https://github.com/kaldi-asr/kaldi/tree/master/egs/sre16/v2) [[models]](http://kaldi-asr.org/models/m3)
@@ -69,11 +69,13 @@ Below you can find more detailed information about the references and resources.
 # 2. Sound Source Localization [[3]](https://hal.archives-ouvertes.fr/hal-01058575/document)
 * [[39]](https://ieeexplore.ieee.org/document/7952211) DOA estimation with histogram analysis of spatially constrained active intensity vectors [[preprint]](https://pdfs.semanticscholar.org/db39/56916d941cdad01ac4c59cb6749e1e34e010.pdf)
 * [[40]](https://ieeexplore.ieee.org/abstract/document/8651493) Multi-Speaker {DOA} Estimation Using Deep Convolutional Networks Trained With Noise Signals [[preprint]](https://arxiv.org/abs/1807.11722)
-* [[41]]
-* [[42]]
-* [[43]]
-* [[44]]
-* [[45]]
+* [[41]](https://ieeexplore.ieee.org/document/8010441) Multiple-Speaker Localization Based on Direct-Path Features and Likelihood Maximization With Spatial Sparsity Regularization [[preprint]](https://arxiv.org/abs/1611.01172)
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Improving Computational Efficiency`
+* [[42]](https://www.sciencedirect.com/science/article/abs/pii/S0921889017309399?via%3Dihub) Lightweight and optimized sound source localization and tracking methods for open and closed microphone array configurations [[preprint]](https://arxiv.org/abs/1812.00115)
+* [[43]](https://ieeexplore.ieee.org/document/7039285) Fast Sound Source Localization Using Two-Level Search Space Clustering [[code]](https://github.com/LeeTaewoo/fast_sound_source_localization_using_TLSSC)
+* [[44]](https://ieeexplore.ieee.org/document/6557035) Real-Time Multiple Sound Source Localization and Counting Using a Circular Microphone Array [[preprint]](https://hal.archives-ouvertes.fr/hal-01367320/document)
+* [[45]](https://ieeexplore.ieee.org/document/8683732) End-to-end Binaural Sound Localisation from the Raw Waveform [[preprint]](https://arxiv.org/abs/1904.01916)
 # 3. Sound Source Separation
 # 4. Active Noise Control (ANC)
 # 5. Sound Source Enhancement
