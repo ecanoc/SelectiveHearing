@@ -53,9 +53,9 @@ Below you can find more detailed information about the references and resources.
 * [[31]](https://ieeexplore.ieee.org/abstract/document/7178885)Advances in deep neural network approaches to speaker recognition
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Robustness`
-* [[32]]
-* [[33]]
-* [[34]]
+* [[32]](https://ieeexplore.ieee.org/document/8461375) X-Vectors: Robust {DNN} Embeddings for Speaker Recognition [[preprint]](https://www.danielpovey.com/files/2018_icassp_xvectors.pdf) [[code]](https://github.com/kaldi-asr/kaldi/tree/master/egs/sre16/v2) [[models]](http://kaldi-asr.org/models/m3)
+* [[33]](https://pdfs.semanticscholar.org/dae7/c5e90bbe1538192d85282757068fef79fafa.pdf?_ga=2.97114969.795981087.1569225783-1727351385.1568271670) How to train your speaker embeddings extractor
+* [[34]](https://arxiv.org/pdf/1605.01635.pdf) The IBM Speaker Recognition System: Recent Advances and Error Analysis
 
 ## Music 
 * [[35]]
