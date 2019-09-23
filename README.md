@@ -50,7 +50,7 @@ Below you can find more detailed information about the references and resources.
 * [[30]](https://pdfs.semanticscholar.org/31c7/4962122ba5fe1c469101b5bc2ae6d88c9c18.pdf) Feature Learning with Raw-Waveform CLDNNs for Voice Activity Detectio
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Speaker Recognition`
-* [[31]]
+* [[31]](https://ieeexplore.ieee.org/abstract/document/7178885)Advances in deep neural network approaches to speaker recognition
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Robustness`
 * [[32]]
