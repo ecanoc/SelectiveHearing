@@ -30,7 +30,7 @@ Below you can find more detailed information about the references and resources.
 * [[20]](http://dcase.community/documents/challenge2018/technical_reports/DCASE2018_Lu_19.pdf)  Mean Teacher Convolution System for DCASE 2018 Task 4 
 * [[21]](https://ieeexplore.ieee.org/abstract/document/7472917) Recurrent neural networks for polyphonic sound event detection in real life recordings
 [Preprint](http://www.cs.tut.fi/sgn/arg/music/tuomasv/parascandolo-icassp2016.pdf)
-* [[22]]
+* [[22]](https://arxiv.org/abs/1805.03647) End-to-End Polyphonic Sound Event Detection Using Convolutional Recurrent Neural Networks with Learned Time-Frequency Representation Input
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Robustness`
 * [[23]]
