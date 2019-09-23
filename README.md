@@ -15,6 +15,16 @@ year = {2019}
 }
 ```
 
-You can download a .bib file with all the references in the paper [here](./MMSP19_SelectiveHearing.bib). Below you can find more detailed information about the references and resources.
+You can download a .bib file with all the references in the paper [here](./MMSP19_SelectiveHearing.bib). 
+
+Below you can find more detailed information about the references and resources.
+
+
+*Sound Source Detection and Classification*
+*Sound Source Localization*
+*Sound Source Separation*
+*Active Noise Control (ANC)*
+*Sound Source Enhancement*
+
 
 
