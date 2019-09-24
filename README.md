@@ -98,7 +98,7 @@ Below you can find more detailed information about the references and resources.
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Spatial Separation`
 * [[4]](https://ieeexplore.ieee.org/document/7473924) Projection-Based Demixing of Spatial Audio [[preprint]](https://hal.inria.fr/hal-01260588/document)
 
-# 4. Active Noise Control (ANC) [[11]]
+# 4. Active Noise Control (ANC) [[11]](https://ieeexplore.ieee.org/abstract/document/763310)
 
 * [[56]](https://ieeexplore.ieee.org/document/7736174) Recent Advances in Active Noise Control Inside Automobile Cabins: Toward quieter cars
 * [[57]](https://www.sciencedirect.com/science/article/abs/pii/S0003682X17303079) Hybrid approach to noise control of industrial exhaust systems 
