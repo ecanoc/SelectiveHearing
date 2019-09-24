@@ -96,10 +96,10 @@ Below you can find more detailed information about the references and resources.
 
 # 4. Active Noise Control (ANC) [[11]]
 
-* [[56]]
-* [[57]]
-* [[58]]
-* [[14]]
+* [[56]](https://ieeexplore.ieee.org/document/7736174) Recent Advances in Active Noise Control Inside Automobile Cabins: Toward quieter cars
+* [[57]](https://www.sciencedirect.com/science/article/abs/pii/S0003682X17303079) Hybrid approach to noise control of industrial exhaust systems 
+* [[58]](https://ieeexplore.ieee.org/abstract/document/8264817) Active Noise Control Over Space: A Wave Domain Approach [[preprint]](http://users.cecs.anu.edu.au/~thush/publications/2018/ANC_Aimee.pdf)
+* [[14]](https://ieeexplore.ieee.org/document/8577985) Signal Processing Challenges for Active Noise Cancellation Headphones [[preprint]](http://ikspub.iks.rwth-aachen.de/pdfs/liebich18c.pdf)
 
 # 5. Sound Source Enhancement
 ## Speech [[9]]
