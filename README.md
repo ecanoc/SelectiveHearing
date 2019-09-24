@@ -110,9 +110,9 @@ Below you can find more detailed information about the references and resources.
 * [[6]](https://ieeexplore.ieee.org/document/7805139) A Consolidated Perspective on Multimicrophone Speech Enhancement and Source Separation
 
 ## Music
-* [[10]]
-* [[63]]
-* [[64]]
+* [[10]](https://archives.ismir.net/ismir2015/paper/000190.pdf) New Sonorities for Early Jazz Recordings Using Sound Source Separation and Automatic Mixing Tools
+* [[63]](http://www.aes.org/e-lib/browse.cfm?elib=19277) Remixing music using source separation algorithms to improve the musical experience of cochlear implant usersPerceptual Evaluation of Source Separation for Remixing Music [[preprint]](https://pdfs.semanticscholar.org/1afc/2d6d7ef1c07e63e773cf0d0fbeb1f61db83c.pdf)
+* [[64]](https://asa.scitation.org/doi/10.1121/1.4971424) Remixing music using source separation algorithms to improve the musical experience of cochlear implant users
 
 
 
