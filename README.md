@@ -104,8 +104,8 @@ Below you can find more detailed information about the references and resources.
 # 5. Sound Source Enhancement
 ## Speech [[9]](https://www.wiley.com/en-sg/Audio+Source+Separation+and+Speech+Enhancement-p-9781119279891)
 * [[8]](https://ieeexplore.ieee.org/document/7038277) Phase Processing for Single-Channel Speech Enhancement: History and recent advances [[preprint]](http://www.jonathanleroux.org/pdf/Gerkmann2015SPM03.pdf)
-* [[59]]Speech enhancement based on deep denoising autoencoder(https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_0436.pdf)
-* [[60]]A Regression Approach to Speech Enhancement Based on Deep Neural Networks (https://ieeexplore.ieee.org/document/6932438)
+* [[59]](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_0436.pdf) Speech enhancement based on deep denoising autoencoder
+* [[60]](https://ieeexplore.ieee.org/document/6932438) A Regression Approach to Speech Enhancement Based on Deep Neural Networks 
 * [[61]](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1428.PDF) SEGAN: Speech Enhancement Generative Adversarial Network [[preprint]](https://arxiv.org/abs/1703.09452) [[code]](https://arxiv.org/abs/1703.09452) [[demo]](http://veu.talp.cat/segan/)
 * [[6]](https://ieeexplore.ieee.org/document/7805139) A Consolidated Perspective on Multimicrophone Speech Enhancement and Source Separation
 
