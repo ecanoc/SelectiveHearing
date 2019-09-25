@@ -45,7 +45,7 @@ Below you can find more detailed information about the references and resources.
 
 ## Speech
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Voice Activity Detection`
-* [[28]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1151.pdfn) Joint Learning Using Denoising Variational Autoencoders for Voice Activity Detection
+* [[28]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1151.pdf) Joint Learning Using Denoising Variational Autoencoders for Voice Activity Detection
 * [[29]](https://ieeexplore.ieee.org/document/6637694) Real-life voice activity detection with LSTM Recurrent Neural Networks and an application to Hollywood movies [[preprint]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.4084&rep=rep1&type=pdf)
 * [[30]](https://pdfs.semanticscholar.org/31c7/4962122ba5fe1c469101b5bc2ae6d88c9c18.pdf) Feature Learning with Raw-Waveform CLDNNs for Voice Activity Detectio
 
