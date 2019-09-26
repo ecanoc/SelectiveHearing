@@ -60,7 +60,7 @@ Below you can find more detailed information about the references and resources.
 ## Music 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Instrument Classification`
 * [[35]](https://ieeexplore.ieee.org/document/7755799) Deep Convolutional Neural Networks for Predominant Instrument Recognition in Polyphonic Music [[preprint]](https://arxiv.org/pdf/1605.09507.pdf)
-* [[36]](https://arxiv.org/abs/1605.06644) Deep convolutional networks on the pitch spiral for musical instrument recognition
+* [[36]](https://arxiv.org/abs/1605.06644) Deep convolutional networks on the pitch spiral for musical instrument recognition [[code]](https://github.com/lostanlen/ismir2016)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Activity Detection`
 * [[37]](http://ismir2018.ircam.fr/doc/pdfs/275_Paper.pdf) Instrument Activity Detection in Polyphonic Music using Deep Neural Networks
