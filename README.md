@@ -86,7 +86,7 @@ Below you can find more detailed information about the references and resources.
 * [[48]](https://ieeexplore.ieee.org/document/8169997) Low latency sound source separation using convolutional recurrent neural networks [[preprint]](http://www.cs.tut.fi/~tuomasv/papers/PID4978439.pdf)
 * [[49]](https://ieeexplore.ieee.org/document/7952149) Low-latency real-time blind source separation for hearing aids based on time-domain implementation of online independent vector analysis with truncation of non-causal components [[preprint]](http://spandh.dcs.shef.ac.uk/chat2017/papers/CHAT_2017_sunohara.pdf)
 * [[50]](https://ieeexplore.ieee.org/abstract/document/8462116) TaSNet: Time-Domain Audio Separation Network for Real-Time, Single-Channel Speech Separation [[preprint]](https://arxiv.org/abs/1711.00541)
-* [[51]](https://ieeexplore.ieee.org/document/7602895) Convolutive blind source separation with low latency [[preprint]]
+* [[51]](https://ieeexplore.ieee.org/document/7602895) Convolutive blind source separation with low latency 
 
 ## Music [[5]](https://ieeexplore.ieee.org/document/8588410)
 
