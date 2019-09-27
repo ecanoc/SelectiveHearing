@@ -1,6 +1,6 @@
 # Selective Hearing
 
-This page provides the list of references described in the following paper:
+This page provides supplementary material for following paper:
 
 
 ```
