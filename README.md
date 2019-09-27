@@ -14,8 +14,7 @@ title = {{Selective Hearing: A Machine Listening Perspective}},
 year = {2019}
 }
 ```
-
-You can download a .bib file with all the references in the paper [here](./MMSP19_SelectiveHearing.bib). 
+The **preprint** and **poster** can be downloaded [here](https://ecanoc.github.io/publication/mmsp19/). The **.bib file** with all the references in the paper [here](./MMSP19_SelectiveHearing.bib). 
 
 Below you can find more detailed information about the references and resources.
 
